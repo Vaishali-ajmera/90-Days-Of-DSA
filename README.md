@@ -75,4 +75,6 @@ Concepts.
 On the 1st day, as I watched Nishant Sir's youtube video of DSA in 90 days I performed following tasks <br>
 * Created a git repository naming "90 Days of DSA"
 * Created an account on LeetCode
-* Learn about Time and Space Complexity
+* Learn about Time and Space Complexity from Coding Ninjas and youtube
+* Prepare notes for the same.
+
