@@ -78,3 +78,7 @@ On the 1st day, as I watched Nishant Sir's youtube video of DSA in 90 days I per
 * Learn about Time and Space Complexity from Coding Ninjas and youtube
 * Prepare notes for the same.
 
+#### 🗒️ Day 02 :
+On the 2nd day, I solve remaining questions for logic building from CodeChef "Self Learning for Unrated Coders". It's totally worth it.
+After solving all the questions I got the rank I and points 1200. It is such a energy booster for me. Now I am more excited to solve other problems as well and level up my rank.
+
