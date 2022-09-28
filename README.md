@@ -77,6 +77,7 @@ On the 1st day, as I watched Nishant Sir's youtube video of DSA in 90 days I per
 * Created an account on LeetCode
 * Learn about Time and Space Complexity from Coding Ninjas and youtube
 * Prepare notes for the same.
+* I solve Codechef "Self Learning for Unrated Coders" questions. It motivates me that I can also solve problems with all testCases passed.
 
 #### 🗒️ Day 02 :
 On the 2nd day, I solve remaining questions for logic building from CodeChef "Self Learning for Unrated Coders". It's totally worth it.
